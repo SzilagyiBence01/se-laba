@@ -58,4 +58,4 @@ Random generator = new Random();
   public int getTorpedoCount() {
     return this.torpedoCount;
   }
-}
+} //komment
